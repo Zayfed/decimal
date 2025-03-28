@@ -1,4 +1,4 @@
-# decimal
+# Decimal
 Decimal is an educational project by School 21, aimed at implementing the decimal type in the C programming language. The standard C library does not provide a built-in decimal type, making this implementation particularly useful for financial calculations, where the rounding errors typical of floating-point arithmetic are unacceptable.
 ## Key Features of Decimal Type
 Precision & Range: Represents decimal numbers from ±79,228,162,514,264,337,593,543,950,335 with a default value of 0.
